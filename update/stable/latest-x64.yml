@@ -1,7 +1,7 @@
-version: "1.4.0"
+version: "1.4.1"
 files:
-  - url: "http://192.168.1.241:59899/fsdownload/LIpuWz6uZ/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.0_windows_x64.exe"
-    sha512: "cob3NZN50IgddE+orapyE/BP42Wd+4PYT5ozrC8DUD1iq3zyTRRNsFmk+W5zboYzB4fkYYdFEP39iSqPK+wwdQ=="
-    size: 100554617
+  - url: "http://192.168.1.241:59899/fsdownload/H3x8qtQlg/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.1_windows_x64.exe"
+    sha512: "nOoB+tmvR32cLT4zrLJXieTkJuhMkbkWCLbgociGZ6M4WpRtqiCSBJlhd9ppzYeIMV2vcQi4mUCMAI4JW7gtLg=="
+    size: 100558980
     arch: x64
-releaseDate: "2026-10-23T03:16:26.929827+00:00"
+releaseDate: "2026-10-26T02:52:47.737690+00:00"
