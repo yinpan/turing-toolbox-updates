@@ -1,11 +1,11 @@
 version: "1.4.4"
 files:
-  - url: "http://192.168.1.241:59899/fsdownload/PpkK9YPPe/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.4_mac_arm64.zip"
-    sha512: "x4vrGSn5PvdIIa5wUoSLTDXe0Q93aB4eUYe+/9bEyaQazpLLdkwNoV+DTKNRnJfmbOaA6KAq/5HzFMg8GbiyPw=="
-    size: 120281696
-    arch: arm64
   - url: "http://192.168.1.241:59899/fsdownload/gAJDNpIGI/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.4_mac_x64.zip"
-    sha512: "3P+9879YD/zbAbmFv/8WwoarpSdkL5LPghtZ/BFITsWVNMwhMyvajfAJwfRYg7XcILGP4XDGu1CmB1xKMNNwTA=="
-    size: 125950849
+    sha512: "flmF0zFZmuUpRWJfqQBWsiPFh/qax8gtxAjq5Edk+I3R9vNzKvicraKc0EXoX20l9Nvk/AdbAG/lw4lUzvxULA=="
+    size: 125950915
     arch: x64
-releaseDate: "2026-11-13T09:11:58.962226+00:00"
+  - url: "http://192.168.1.241:59899/fsdownload/PpkK9YPPe/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.4_mac_arm64.zip"
+    sha512: "YbGGhLR7lSBmKCqcq2WwA9+LBippaKzUD42JKJ/B+NHBOhoN4kXuOjj67C/nOeReFyxH5uznPOHVVGRtdeIqbw=="
+    size: 120281764
+    arch: arm64
+releaseDate: "2026-11-13T09:42:27.218602+00:00"
