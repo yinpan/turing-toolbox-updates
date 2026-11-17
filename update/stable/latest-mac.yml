@@ -1,11 +1,11 @@
 version: "1.4.4"
 files:
   - url: "http://192.168.1.241:59899/fsdownload/gAJDNpIGI/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.4_mac_x64.zip"
-    sha512: "aQQA6Wywb7/Jwp9bzNWm4gZ+NoIQZH6Q2yx33tTaTQ9R7YufK9RcqgFTAHCD1PP3rxISzzwxqFay5EhZ9wOU5Q=="
-    size: 125951044
+    sha512: "yFNglXBclLMCbFhKWdOdxqgmN3f0SfY85agxp3VAJzy4I7Xo1kBCN5CYFtmbjr+r2dvC/Fij1PZo8CwkAk7gSQ=="
+    size: 125951041
     arch: x64
   - url: "http://192.168.1.241:59899/fsdownload/PpkK9YPPe/%E5%9B%BE%E7%81%B5%E5%B7%A5%E5%85%B7%E7%AE%B1_1.4.4_mac_arm64.zip"
-    sha512: "zl5O5zJhwWONJYpD8OqEJrg1+aILCpRrjwqexVnyBoFYWBtaNOz8cF5MSFJSnSyXfrX23cdJPgbWsGntyMfW0g=="
-    size: 120281895
+    sha512: "km050lohrThbJMH7A/pb/0TnCz09qsAzmsU/g8ZB7mgVAFNCt/N66WBrqw+1yaiDTXnY8/9K+xS+T72B1TyD4w=="
+    size: 120281890
     arch: arm64
-releaseDate: "2026-11-17T06:11:52.584297+00:00"
+releaseDate: "2026-11-17T07:34:22.930467+00:00"
